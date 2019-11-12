@@ -13,6 +13,8 @@ import java.util.List;
 @RequestMapping("/api")
 public class ItemController {
 
+    //UI
+
     @Autowired
     private ItemService itemService;
 

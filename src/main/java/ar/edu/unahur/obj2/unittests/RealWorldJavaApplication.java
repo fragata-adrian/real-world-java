@@ -4,6 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
+/*  -> Controller
+    -> Service
+    -> Repository
+    -> Model
+*/
 
 @SpringBootApplication
 @ComponentScan("ar.edu.unahur.obj2")

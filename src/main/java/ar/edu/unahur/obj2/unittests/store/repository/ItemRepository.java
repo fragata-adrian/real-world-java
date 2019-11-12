@@ -11,6 +11,8 @@ import java.util.Map;
 @Repository
 public class ItemRepository {
 
+    //Base de datos
+
 
     private static final Map<String, Item> itemMap;
     static
